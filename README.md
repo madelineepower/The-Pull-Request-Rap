@@ -1,11 +1,11 @@
 # The Pull Request Rap
 
-## I made a pull request,
+### I made a pull request,
 
-## Put my code to the test!
+### Put my code to the test!
 
-## If you give me a thumbs up,
+### If you give me a thumbs up,
 
-## We can merge...
+### We can merge...
 
-## That's wazzup yo
+### That's wazzup yo
